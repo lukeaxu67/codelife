@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "codelife",
+  "api_url": "https://example.com",
+  "features": {
+    "foo": true,
+    "bar": false
+  }
+}
